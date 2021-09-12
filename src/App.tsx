@@ -1,11 +1,9 @@
-import React from 'react';
-import './App.css';
 
 function App() {
   return (
-    <>
-      Hello world
-    </>
+   <>
+    <h1 className="text-lg ">Hello world</h1>
+   </>
   );
 }
 
